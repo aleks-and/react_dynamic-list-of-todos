@@ -1,0 +1,1 @@
+{"version":3,"sources":["TodoList.css"],"names":[],"mappings":"AAAA,iBACE,WAAY,CACZ,YAAa,CACb,6BACF,CAEA,+BACE,2BACF","file":"main.2b877233.chunk.css","sourcesContent":[".todo-list__item {\r\n  height: 100%;\r\n  padding: 20px;\r\n  background: rgba(255, 255, 0, 0.5);\r\n}\r\n\r\n.todo-list__item--is-completed {\r\n  background: rgba(0, 128, 0, 0.5);\r\n}"]}
